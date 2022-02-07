@@ -3,5 +3,3 @@
 
 <img src="https://i.pinimg.com/originals/cd/cf/1d/cdcf1d634cd7dcb1b9f5fc7ce321a9ed.gif">
 
-<h4>Follow Me On Instagram</h4>
-<img src="logoimage.png" align="center"></img>
